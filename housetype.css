@@ -1,0 +1,122 @@
+.body {
+  font-family: Montserrat;
+}
+.highlight {
+  position: relative;
+  font-family: Montserrat;
+  right: -30px;
+  top: 45px;
+}
+.container {
+  background-color: white;
+  position: relative;
+  right: -150px;
+  width: 1000px;
+  height: 700px;
+  margin: 50px;
+}
+.pic1 {
+  position: relative;
+  right: -150px;
+  bottom: -50px;
+  margin: 50px;
+  margin-top: 25px;
+}
+.button1 {
+  position: relative;
+  top: -200px;
+  right: -245px;
+  color: lightseagreen;
+  background-color: white;
+  border-color: #2196f3;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 16px;
+  margin-bottom: 50px;
+}
+.pic2 {
+  position: relative;
+  right: -500px;
+  margin: 50px;
+  top: -200px;
+  margin-top: 25px;
+}
+.button2 {
+  position: relative;
+  top: -490px;
+  right: -675px;
+  color: lightseagreen;
+  background-color: white;
+  border-color: #2196f3;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 16px;
+}
+.pic3 {
+  position: relative;
+  right: -75px;
+  margin: 50px;
+  top: -220px;
+  margin-top: 25px;
+}
+
+.button3 {
+  position: relative;
+  right: -255px;
+  top: -490px;
+  color: lightseagreen;
+  background-color: white;
+  border-color: #2196f3;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 16px;
+}
+.pic4 {
+  position: relative;
+  margin: 50px;
+  margin-top: 25px;
+  top: -475px;
+  right: -525px;
+}
+
+.button4 {
+  position: relative;
+  margin: 50px;
+  margin-top: 25px;
+  top: -550px;
+  right: -600px;
+
+  color: lightseagreen;
+  background-color: white;
+  border-color: #2196f3;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 16px;
+}
+.pic5 {
+  position: relative;
+  right: -900px;
+  bottom: -30px;
+  width: 25vw;
+  height: 28.3vh;
+}
+.illusions {
+  height: 45vh;
+  width: 10vw;
+  overflow: hidden;
+  right: -1250px;
+  top: -350px;
+  position: relative;
+}
+
+.back {
+  position: relative;
+}

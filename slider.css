@@ -1,0 +1,94 @@
+.title {
+  text-align: center;
+  font-family: Montserrat;
+  position: relative;
+  bottom: -75px;
+}
+.amount {
+  margin-top: 100px;
+  text-align: center;
+  color: rgba(40, 207, 236, 0.89);
+}
+.container {
+  background-color: lightgrey;
+}
+.card {
+  position: relative;
+  right: -250px;
+  background-color: white;
+  width: 750px;
+  height: 600px;
+}
+.slidecontainer {
+  width: 100%;
+}
+
+.slider {
+  position: relative;
+  right: -150px;
+  margin-top: 100px;
+  width: 55%;
+  height: 15px;
+  border-radius: 5px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: 0.2s;
+  transition: opacity 0.2s;
+  margin-bottom: 50px;
+}
+
+.slider:hover {
+  opacity: 1;
+}
+
+.slider :-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #4caf50;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #4caf50;
+  cursor: pointer;
+}
+.value {
+  position: relative;
+  right: -20px;
+  color: rgba(40, 148, 236, 0.89);
+  word-spacing: 100px;
+  font-size: 25px;
+}
+.illusions {
+  height: 45vh;
+  width: 10vw;
+  overflow: hidden;
+  right: -1250px;
+  top: -350px;
+  position: relative;
+}
+.Countinue {
+  position: relative;
+  bottom: -55px;
+  right: -285px;
+  color: lightseagreen;
+  background-color: white;
+  border-color: #2196f3;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 16px;
+}
+.back {
+  position: relative;
+  right: -215px;
+  bottom: -105px;
+}
